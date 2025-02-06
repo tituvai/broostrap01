@@ -1,0 +1,62 @@
+/* All Common Css Part Start */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 0.8;
+}
+a,a:hover{
+    text-decoration: none;
+}
+ul,ol{
+    list-style-type: none;
+}
+h1, h2, h3, h4, h5, h6, p{
+    margin: 0;
+    padding: 0;
+}
+/* All Common Css Part End */
+
+/* Header Part Start */
+
+.nav-link{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "Open Sans", serif;
+    color: #29313D;
+}
+.headerBtn a{
+    padding: 15px 30px;
+    background: #8454F5;
+    border-radius: 15px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "Nunito", serif;
+}
+/* Header Part End */
+
+/* Header Part Start */
+/* Header Part End */
+
+/* Header Part Start */
+/* Header Part End */
+
+/* Header Part Start */
+/* Header Part End */
+
+/* Header Part Start */
+/* Header Part End */
+
+/* Header Part Start */
+/* Header Part End */
+
+/* Header Part Start */
+/* Header Part End */
+
+/* Header Part Start */
+/* Header Part End */
+
+/* Header Part Start */
+/* Header Part End */
