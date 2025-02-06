@@ -25,6 +25,7 @@ h1, h2, h3, h4, h5, h6, p{
     font-weight: 600;
     font-family: "Open Sans", serif;
     color: #29313D;
+   margin: 10px;
 }
 .headerBtn a{
     padding: 15px 30px;
